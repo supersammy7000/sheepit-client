@@ -13,3 +13,4 @@ os:
 branches:
   only:
   - master
+dist: xenial
