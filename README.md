@@ -1,6 +1,6 @@
 # SheepIt Render Farm Client
 
-[![Build Status](https://secure.travis-ci.org/laurent-clouet/sheepit-client.svg)](http://travis-ci.org/laurent-clouet/sheepit-client)
+[![Build Status](https://secure.travis-ci.org/laurent-clouet/sheepit-client.svg)](http://travis-ci.org/supersammy7000/sheepit-client)
 
 ## Overview
 
